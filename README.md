@@ -61,10 +61,10 @@ The dataset simulates a ride-sharing platform and includes:
 
 Uber_Rideshare_SQL_Analysis/
 │
-├── data/
+├── Schema/
 │ └── schema.sql
 │
-├── queries/
+├── Queries/
 │ └── analysis_queries.sql
 │
 └── README.md
